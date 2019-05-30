@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Have fun playing math game!!</description>
+    <frameHeight>800</frameHeight>
+    <hasSidebar>false</hasSidebar>
+    <label>Math Game</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom62: Chalkboard</motif>
+    <url>https://mental-math-with-matt-n-steve.herokuapp.com/</url>
+    <urlEncodingKey>UTF-8</urlEncodingKey>
+</CustomTab>
