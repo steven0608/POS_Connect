@@ -1,0 +1,7 @@
+<apex:page standardController="POSProductsList__x" > 
+    
+    <!-- Display image from the external object !-->
+<center>
+        <apex:image alt="ProductImage" url="{!POSProductsList__x.image_url__c}" width="400" height="250" />
+    </center>
+</apex:page>

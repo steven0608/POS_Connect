@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customConfiguration>{&quot;noIdMapping&quot;:&quot;false&quot;}</customConfiguration>
+    <endpoint>https://limitless-fjord-48119.herokuapp.com/api/v1/products</endpoint>
+    <isWritable>false</isWritable>
+    <label>Point of Sales</label>
+    <principalType>Anonymous</principalType>
+    <protocol>NoAuthentication</protocol>
+    <type>PointOfSales_DSProvider</type>
+</ExternalDataSource>
